@@ -1,5 +1,5 @@
 # Telegram Data Analysis
-The project analyzes data downloaded from own Telegram.  
+The project analyzes the data I collected from my own telegram, and I will show the results I got during the investigation.  
 You can upload your data using this [GitHub Repository](https://github.com/SanGreel/telegram-data-collection.git)
 
 ## How to run
